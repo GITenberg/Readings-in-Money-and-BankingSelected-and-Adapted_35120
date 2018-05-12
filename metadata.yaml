@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37474'
     url: http://www.gutenberg.org/2009/agents/37474
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35120#Readings-in-Money-and-BankingSelected-and-Adapted
 gutenberg_issued: '2011-01-30'
 gutenberg_type: Text
 identifiers:
